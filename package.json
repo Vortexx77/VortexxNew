@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Vortexx77.github.io/Vortexx-website",
+  "homepage": "https://Vortexx77.github.io/VortexxNew",
   "name": "vortex-tech-solutions",
   "private": true,
   "version": "1.0.0",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "axios": "^1.9.0",
